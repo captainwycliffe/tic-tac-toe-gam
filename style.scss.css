@@ -1,7 +1,7 @@
 style.scss
 @import url(https://fonts.googleapis.com/css?family=Yesteryear);
 
-$app-background-color : #508ABB;
+$app-background-color : #ffff;
 $app-row-height : 100%;
 $winAnimStartColor : cyan;
 $winAnimEndColor : #508ABB;
